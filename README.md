@@ -14,9 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```c
 /* yokesh_profile.c */
@@ -62,14 +60,7 @@ int main() {
 }
 ```
 
-</td>
-<td valign="middle" width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -114,16 +105,6 @@ int main() {
 ![Schematic](https://img.shields.io/badge/Schematic%20Design-FF6347?style=flat-square&logo=kicad&logoColor=white)
 ![GPIO](https://img.shields.io/badge/GPIO%20Interfacing-6B8E23?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Prototyping](https://img.shields.io/badge/Hardware%20Prototyping-8B4513?style=flat-square&logo=instructables&logoColor=white)
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yokesh-1605&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
-</div>
 
 ---
 
